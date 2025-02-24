@@ -19,4 +19,8 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+    <None Include="x64\Release\Elite Dangerous Rank Percentage.exe" />
+  </ItemGroup>
 </Project>
