@@ -3,6 +3,8 @@
 Welcome and o7! I'm CMDR lilykmoto. I found it annoying that Elite Dangerous doesn't give you a percentage value for your career ranks, despite storing that in the journal file. This program aims to solve that. If you give it a journal file, it will parse the journal file and tell you how close you are to the next rank!
 ![](img/output.png)
 ## Program Usage
+To download the program, go to the releases section and download the `.exe` file.
+
 This program is very simple to use. Give it a journal file, and it will give you your percentages.
 ### Initial Input
 ![](img/input.png)
